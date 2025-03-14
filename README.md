@@ -1,3 +1,0 @@
-# CatmemeHomePage
-猫マニ党党員用ページ
-パスワードは猫マニ党Lineを見てください
