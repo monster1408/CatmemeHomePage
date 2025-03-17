@@ -1,6 +1,6 @@
 var formPass = document.getElementById("pass");
-function(pass){
-  if(formPass.value == "Za7630"){
+function passfanction(pass){
+  if(formPass.value == pass){
     formPass.style.display = "none";
   }
 }
