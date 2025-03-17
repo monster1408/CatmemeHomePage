@@ -1,4 +1,4 @@
-var formPass = document.getElementById("pass").innerHTML;
-while(formPass == "Za7630"){
-  document.getElementById("pass").style.display = "none";
+var formPass = document.getElementById("pass");
+while(formPass.value == "Za7630"){
+  formPass.style.display = "none";
 }
