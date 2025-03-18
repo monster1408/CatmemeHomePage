@@ -5,9 +5,7 @@ var images = ["やぎ","ハッピー","何やってんだ","死にそう","痛�
 function imgselect(num){
   catimg.src = images[num] + ".GIF";
 }
-function nextimg(num){
-  catimg.src = images[num] + ".GIF";
-}
+
 function passfanction(){
   if(formPass.value == "Za7630"){
     formPass.style.display = "none";
@@ -16,3 +14,4 @@ function passfanction(){
     div = document.getElementById("page");
   }
 }
+
