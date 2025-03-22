@@ -1,6 +1,8 @@
 var formPass = document.getElementById("pass");
 var catimg = document.getElementById("cat");
 var diva = document.getElementById("page2");
+var hand = ;
+var hand_img= document.getElementById("hand_img");
 diva.style.display = "none";
 var images = ["やぎ","ハッピー","何やってんだ","死にそう","痛い","米津","驚き"]
 function imgselect(num){
